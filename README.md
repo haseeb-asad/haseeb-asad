@@ -15,11 +15,11 @@ I'm a **Computer Science graduate** with a passion for building innovative and s
 - ⚡ **Fun Fact**: I love solving algorithmic problems and exploring the intersection of AI, fintech, and web technologies!  
   
 
-![HaseeebA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HaseeebA&theme=dark&hide_border=true)
+![HaseeebA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=haseeb-asad&theme=dark&hide_border=true)
 
-![HaseeebA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaseeebA&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![HaseeebA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-asad&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-[![Haseeb's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HaseeebA&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Haseeb's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haseeb-asad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 🔗 Connect with Me
 
