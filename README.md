@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-I'm a **Computer Science graduate** with a passion for building innovative and scalable software solutions. My expertise spans **Spring Boot (Kotlin, Java 18)**, **Kubernetes**, **AWS**, **Node.js**, **Next.js**, **Kafka**, and **Grafana**, with hands-on experience in full-stack development, distributed systems, and real-time data processing.
+I'm a **Backend Engineer** with a passion for building innovative and scalable software solutions. My expertise spans **Spring Boot (Kotlin, Java 18)**, **Kubernetes**, **AWS**, **Node.js**, **Next.js**, **Kafka**, and **Grafana**, with hands-on experience in full-stack development, distributed systems, and real-time data processing.
 
 - 🔭 **Current Project**: [Khelo!](https://bookwithkhelo.com) – A booking platform for sports and recreational activities.  
 - 💡 **Interests**: Building **fintech solutions**, creating powerful **automations**, and engineering fast, high-performance backend systems. Specialize in planning and system design for peak efficiency.  
