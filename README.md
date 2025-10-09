@@ -12,7 +12,7 @@ I'm a **Backend Engineer** with a passion for building innovative and scalable s
 - 🔭 **Current Project**: [Khelo!](https://bookwithkhelo.com) – A booking platform for sports and recreational activities.  
 - 💡 **Interests**: Building **fintech solutions**, creating powerful **automations**, and engineering fast, high-performance backend systems. Specialize in planning and system design for peak efficiency.  
 - 🌱 **Currently Learning**: Advanced **Machine Learning**, cloud technologies (**GCP**, **Azure**, **AWS**), and backend optimization with **Go**.  
-- 💼 **Experience**: Previously at **@BazaarTech**, currently at **@TuleInc**.  
+- 💼 **Experience**: Previously at [@BazaarTech](https://github.com/bazaartechnologies), currently at [@TuleInc](https://github.com/TuleInc).  
 - 📂 **Projects**: [FinTrail](https://fintrailapp.vercel.app/) – Finance tracking app, [DataClean](https://dataclean.tech), [NextOTP](https://nextotp.tech), [Sehatmand](https://sehatmand.io), and [RAG Tool](https://rag-phi-lovat.vercel.app/) – a RAG-based system for indexing company documents.  
 - ⚡ **What I Love**: Doing backend work and architecting systems for scale.  
   
