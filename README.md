@@ -7,12 +7,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-I'm a **Computer Science graduate** with a passion for building innovative and scalable software solutions. My expertise spans **Flutter**, **MERN**, **Python**, and **Go**, with hands-on experience in full-stack development, distributed systems, and real-time data processing.
+I'm a **Computer Science graduate** with a passion for building innovative and scalable software solutions. My expertise spans **Spring Boot (Kotlin, Java 18)**, **Kubernetes**, **AWS**, **Node.js**, **Next.js**, **Kafka**, and **Grafana**, with hands-on experience in full-stack development, distributed systems, and real-time data processing.
 
-- 🔭 **Current Project**: [FinTrail](https://fintrailapp.vercel.app/) – A finance tracking app for smarter budgeting and investment management.  
-- 💡 **Interests**: Building **fintech solutions**, creating powerful **automations**, and engineering fast, high-performance backend systems using **Go**, **Python**, and **JavaScript**.  
+- 🔭 **Current Project**: [Khelo!](https://bookwithkhelo.com) – A booking platform for sports and recreational activities.  
+- 💡 **Interests**: Building **fintech solutions**, creating powerful **automations**, and engineering fast, high-performance backend systems. Specialize in planning and system design for peak efficiency.  
 - 🌱 **Currently Learning**: Advanced **Machine Learning**, cloud technologies (**GCP**, **Azure**, **AWS**), and backend optimization with **Go**.  
-- ⚡ **Fun Fact**: I love solving algorithmic problems and exploring the intersection of AI, fintech, and web technologies!  
+- 💼 **Experience**: Previously at **@BazaarTech**, currently at **@TuleInc**.  
+- 📂 **Projects**: [FinTrail](https://fintrailapp.vercel.app/) – Finance tracking app, [DataClean](https://dataclean.tech), [NextOTP](https://nextotp.tech), [Sehatmand](https://sehatmand.io), and [RAG Tool](https://rag-phi-lovat.vercel.app/) – a RAG-based system for indexing company documents.  
+- ⚡ **What I Love**: Doing backend work and architecting systems for scale.  
   
 
 ![HaseeebA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=haseeb-asad&theme=dark&hide_border=true)
