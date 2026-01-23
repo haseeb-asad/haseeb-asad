@@ -15,11 +15,6 @@ I'm a **Backend Engineer** with a passion for building innovative and scalable s
 - 💼 **Experience**: Previously at [@BazaarTech](https://github.com/bazaartechnologies), currently at [@TuleInc](https://github.com/TuleInc).  
 - 📂 **Projects**: [FinTrail](https://fintrailapp.vercel.app/) – Finance tracking app, [DataClean](https://dataclean.tech), [NextOTP](https://nextotp.tech), [Sehatmand](https://sehatmand.io), and [RAG Tool](https://rag-phi-lovat.vercel.app/) – a RAG-based system for indexing company documents.  
 - ⚡ **What I Love**: Doing backend work and architecting systems for scale.  
-  
-
-![HaseeebA's Streak](https://github-readme-streak-stats.herokuapp.com/?user=haseeb-asad&theme=dark&hide_border=true)
-
-![HaseeebA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-asad&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 [![Haseeb's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haseeb-asad&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
