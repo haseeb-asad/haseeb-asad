@@ -9,10 +9,10 @@
 
 I'm a **Backend Engineer** with a passion for building innovative and scalable software solutions. My expertise spans **Spring Boot (Kotlin, Java 18)**, **Kubernetes**, **AWS**, **Node.js**, **Next.js**, **Kafka**, and **Grafana**, with hands-on experience in full-stack development, distributed systems, and real-time data processing.
 
-- 🔭 **Current Projects**: [Querify!](https://querify.tech), and [Khelo!](https://bookwithkhelo.com) 
+- 🔭 **Current Projects**: [Querify!](https://querify.tech), [Sealed!](https://openwhenitstime.com), and [Khelo!](https://bookwithkhelo.com) 
 - 💡 **Interests**: Building **data solutions** **fintech solutions**, creating powerful **automations**, and engineering fast, high-performance backend systems. Specialize in planning and system design for peak efficiency.  
 - 🌱 **Currently Learning**: Advanced **Machine Learning**, cloud technologies (**GCP**, **Azure**, **AWS**), and backend optimization with **Go**.  
-- 💼 **Experience**: Previously at [@BazaarTech](https://github.com/bazaartechnologies), currently at [@TuleInc](https://github.com/TuleInc).  
+- 💼 **Experience**: Previously at [@BazaarTech](https://github.com/bazaartechnologies), [@TuleInc](https://github.com/TuleInc), currently at [@lithiumtech]([https://github.com/TuleInc](https://github.com/lithiumtech)).  
 - 📂 **Projects**: [FinTrail](https://fintrailapp.vercel.app/) – Finance tracking app, [DataClean](https://dataclean.tech), [NextOTP](https://nextotp.tech), [Sehatmand](https://sehatmand.io), and [RAG Tool](https://rag-phi-lovat.vercel.app/) – a RAG-based system for indexing company documents.  
 - ⚡ **What I Love**: Doing backend work and architecting systems for scale.  
 
